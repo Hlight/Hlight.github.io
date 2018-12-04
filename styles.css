@@ -1,0 +1,12 @@
+ body {
+     color: black;
+     background: white;
+     position: relative;
+ }
+
+ .another {
+     color: green;
+ }
+ .new-style {
+     color: red;
+ }
